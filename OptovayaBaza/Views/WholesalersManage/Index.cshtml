@@ -1,0 +1,53 @@
+﻿@model IEnumerable<OptovayaBaza.Models.Wholesaler>
+@{
+    ViewBag.Title = "Управление оптовиками";
+}
+
+<h2>Управление оптовиками</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Добавить оптовика</a>
+    <a href="@Url.Action("Index", "Admin")" class="btn btn-default">Назад в панель</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Название организации</th>
+            <th>ИНН</th>
+            <th>Телефон</th>
+            <th>Юридический адрес</th>
+            <th>Логин</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var user = item.User;
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.OrganizationName</td>
+                <td>@item.INN</td>
+                <td>@item.Phone</td>
+                <td>@item.LegalAddress</td>
+                <td>@(user?.Login ?? "-")</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-sm btn-warning">Редактировать</a>
+                    <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-sm btn-danger">Удалить</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

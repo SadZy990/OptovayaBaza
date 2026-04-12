@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Оформление возврата материала";
+}
+
+<h2>Оформление возврата материала (принятие на склад)</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<form method="post" action="@Url.Action("Receipt")">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="materialId">Материал</label>
+        <select name="materialId" id="materialId" class="form-control" required>
+            <option value="">Выберите материал</option>
+            @foreach (var item in ViewBag.Materials)
+            {
+                <option value="@item.Value">@item.Text</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="quantity">Количество</label>
+        <input type="number" name="quantity" id="quantity" step="0.01" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="comment">Комментарий</label>
+        <textarea name="comment" id="comment" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-warning">Оформить возврат</button>
+    <a href="@Url.Action("Index")" class="btn btn-default">Назад</a>
+</form>

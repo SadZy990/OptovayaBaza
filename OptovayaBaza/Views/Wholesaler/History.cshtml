@@ -1,0 +1,74 @@
+﻿@model IEnumerable<OptovayaBaza.Models.Transaction>
+@{
+    ViewBag.Title = "История операций";
+}
+
+<h2>История операций</h2>
+
+<form method="get" class="form-inline" style="margin-bottom: 20px">
+    <div class="form-group" style="margin-right: 10px">
+        <label>С даты:</label>
+        <input type="date" name="from" class="form-control" value="@ViewBag.From" />
+    </div>
+    <div class="form-group" style="margin-right: 10px">
+        <label>По дату:</label>
+        <input type="date" name="to" class="form-control" value="@ViewBag.To" />
+    </div>
+    <button type="submit" class="btn btn-primary">Фильтровать</button>
+    <a href="@Url.Action("History")" class="btn btn-default">Сбросить</a>
+</form>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Дата</th>
+            <th>Тип</th>
+            <th>Материал</th>
+            <th>Количество</th>
+            <th>Ед. изм.</th>
+            <th>Комментарий</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DateTime.ToString("dd.MM.yyyy HH:mm")</td>
+                <td>
+                    @if (item.Type == "Shipment")
+                    {
+                        <span class="label label-danger">Отгрузка</span>
+                    }
+                    else
+                    {
+                        <span class="label label-success">Возврат</span>
+                    }
+                </td>
+                <td>@(item.Material?.Name ?? "-")</td>
+                <td>@item.Quantity.ToString("N2")</td>
+                <td>@(item.Material?.Unit ?? "-")</td>
+                <td>@item.Comment</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        Нет операций за выбранный период. Попробуйте изменить даты.
+    </div>
+}
+
+<br />
+<a href="@Url.Action("Index")" class="btn btn-default">Назад к остаткам</a>

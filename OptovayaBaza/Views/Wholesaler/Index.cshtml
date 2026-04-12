@@ -1,0 +1,62 @@
+﻿@model IEnumerable<OptovayaBaza.Models.Material>
+@{
+    ViewBag.Title = "Остатки материалов";
+}
+
+<div class="jumbotron" style="background-color: #27ae60; color: white; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <h2>Остатки материалов на складе</h2>
+    <p>Доступные материалы</p>
+</div>
+
+<div class="row" style="margin-bottom: 20px;">
+    <div class="col-md-3">
+        <a href="@Url.Action("Shipment")" class="btn btn-primary btn-block">Оформить отгрузку</a>
+    </div>
+    <div class="col-md-3">
+        <a href="@Url.Action("Receipt")" class="btn btn-warning btn-block">Оформить возврат</a>
+    </div>
+    <div class="col-md-3">
+        <a href="@Url.Action("History")" class="btn btn-info btn-block">История операций</a>
+    </div>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Наименование</th>
+            <th>Ед. изм.</th>
+            <th>Цена</th>
+            <th>Остаток</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="@(item.Stock == 0 ? "danger" : item.Stock < 10 ? "warning" : "")">
+                <td>@item.Name</td>
+                <td>@item.Unit</td>
+                <td>@item.Price.ToString("N2")</td>
+                <td>@item.Stock.ToString("N2")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Нет материалов в наличии</div>
+}
+
+<style>
+    .table-striped > tbody > tr:nth-of-type(odd) {
+        background-color: #f9f9f9;
+    }
+
+    .danger {
+        background-color: #f2dede;
+    }
+
+    .warning {
+        background-color: #fcf8e3;
+    }
+</style>

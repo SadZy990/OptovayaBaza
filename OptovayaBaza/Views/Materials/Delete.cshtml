@@ -1,0 +1,46 @@
+﻿@model OptovayaBaza.Models.Material
+@{
+    ViewBag.Title = "Удалить материал";
+}
+
+<h2>Удалить материал</h2>
+
+@if (ViewBag.HasTransactions == true)
+{
+    <div class="alert alert-danger">
+        <strong>Внимание!</strong> Невозможно удалить этот материал, так как есть операции с ним.
+    </div>
+    <a href="@Url.Action("Index")" class="btn btn-default">Назад к списку</a>
+}
+else
+{
+    <div class="alert alert-warning">
+        <strong>Внимание!</strong> Вы действительно хотите удалить материал?
+    </div>
+
+    <table class="table table-bordered">
+        <tr>
+            <th>Наименование</th>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <th>Единица измерения</th>
+            <td>@Model.Unit</td>
+        </tr>
+        <tr>
+            <th>Цена</th>
+            <td>@Model.Price.ToString("N2")</td>
+        </tr>
+        <tr>
+            <th>Остаток</th>
+            <td>@Model.Stock.ToString("N2")</td>
+        </tr>
+    </table>
+
+    using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-danger">Удалить</button>
+        <a href="@Url.Action("Index")" class="btn btn-default">Отмена</a>
+    }
+}

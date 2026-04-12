@@ -1,0 +1,180 @@
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\OptovayaBaza.dll.config
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\OptovayaBaza.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\OptovayaBaza.pdb
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\csc.exe
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\csc.exe.config
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\csc.rsp
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\csi.exe
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\csi.exe.config
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\csi.rsp
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.Managed.Core.targets
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.AppContext.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Collections.Immutable.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Console.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Globalization.Calendars.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.Compression.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.FileSystem.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Net.Http.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Net.Sockets.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Reflection.Metadata.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.ValueTuple.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.XmlDocument.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.XPath.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\vbc.exe
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\vbc.exe.config
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\vbc.rsp
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\VBCSCompiler.exe
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\roslyn\VBCSCompiler.exe.config
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\Antlr3.Runtime.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\EntityFramework.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\EntityFramework.SqlServer.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\Microsoft.Web.Infrastructure.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\Newtonsoft.Json.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Helpers.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Mvc.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Optimization.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Razor.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Deployment.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Razor.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\WebGrease.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\EntityFramework.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\EntityFramework.SqlServer.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Helpers.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Mvc.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Razor.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Deployment.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Razor.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\System.Web.Optimization.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\Newtonsoft.Json.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\Antlr3.Runtime.pdb
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Helpers.resources.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Mvc.resources.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Razor.resources.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.WebPages.resources.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Optimization.resources.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.csproj.AssemblyReference.cache
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.csproj.CoreCompileInputs.cache
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\obj\Debug\Optovaya.DDA852B6.Up2Date
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.dll
+D:\msvisual\save\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.pdb
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\OptovayaBaza.dll.config
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\OptovayaBaza.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\OptovayaBaza.pdb
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\csc.exe
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\csc.exe.config
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\csc.rsp
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\csi.exe
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\csi.exe.config
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\csi.rsp
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.AppContext.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Console.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.Compression.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Net.Http.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Net.Sockets.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.ValueTuple.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\vbc.exe
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\vbc.exe.config
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\vbc.rsp
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\VBCSCompiler.exe
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\Antlr3.Runtime.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\EntityFramework.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\EntityFramework.SqlServer.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\Newtonsoft.Json.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Helpers.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Mvc.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Optimization.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Razor.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Deployment.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Razor.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\WebGrease.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\EntityFramework.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\EntityFramework.SqlServer.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Helpers.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Mvc.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Razor.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Deployment.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.WebPages.Razor.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\System.Web.Optimization.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\Newtonsoft.Json.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\Antlr3.Runtime.pdb
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Razor.resources.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.csproj.AssemblyReference.cache
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.csproj.CoreCompileInputs.cache
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\obj\Debug\Optovaya.DDA852B6.Up2Date
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.dll
+C:\Users\seliundiaev_ds\Desktop\Новая папка\OptovayaBaza\OptovayaBaza\OptovayaBaza\obj\Debug\OptovayaBaza.pdb

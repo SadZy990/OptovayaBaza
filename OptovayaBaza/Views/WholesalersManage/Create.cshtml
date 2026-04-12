@@ -1,0 +1,56 @@
+﻿@model OptovayaBaza.Models.WholesalerViewModel
+@{
+    ViewBag.Title = "Добавить оптовика";
+}
+
+<h2>Добавить оптовика</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Login)
+        @Html.TextBoxFor(m => m.Login, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.Login)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.Password)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.OrganizationName)
+        @Html.TextBoxFor(m => m.OrganizationName, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.OrganizationName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.INN)
+        @Html.TextBoxFor(m => m.INN, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.INN)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Phone)
+        @Html.TextBoxFor(m => m.Phone, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.Phone)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.LegalAddress)
+        @Html.TextBoxFor(m => m.LegalAddress, new { @class = "form-control", required = "required" })
+        @Html.ValidationMessageFor(m => m.LegalAddress)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ContactPerson)
+        @Html.TextBoxFor(m => m.ContactPerson, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ContactPerson)
+    </div>
+
+    <button type="submit" class="btn btn-success">Сохранить</button>
+    <a href="@Url.Action("Index")" class="btn btn-default">Отмена</a>
+}

@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Удалить оптовика";
+}
+
+<h2>Удалить оптовика</h2>
+
+<div class="alert alert-warning">
+    <strong>Внимание!</strong> Вы действительно хотите удалить оптовика?
+</div>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Название организации</th>
+        <td>@ViewBag.OrganizationName</td>
+    </tr>
+    <tr>
+        <th>Логин</th>
+        <td>@ViewBag.Login</td>
+    </tr>
+</table>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Удалить</button>
+    <a href="@Url.Action("Index")" class="btn btn-default">Отмена</a>
+}

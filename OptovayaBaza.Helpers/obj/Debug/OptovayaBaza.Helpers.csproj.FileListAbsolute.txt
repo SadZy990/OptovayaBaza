@@ -1,0 +1,15 @@
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\OptovayaBaza.Helpers.dll.config
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\OptovayaBaza.Helpers.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\OptovayaBaza.Helpers.pdb
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\EntityFramework.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\OptovayaBaza.Models.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\OptovayaBaza.Models.pdb
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\OptovayaBaza.Models.dll.config
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\EntityFramework.xml
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\obj\Debug\OptovayaBaza.Helpers.csproj.AssemblyReference.cache
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\obj\Debug\OptovayaBaza.Helpers.csproj.CoreCompileInputs.cache
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\obj\Debug\Optovaya.CD5692A9.Up2Date
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\obj\Debug\OptovayaBaza.Helpers.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Helpers\obj\Debug\OptovayaBaza.Helpers.pdb

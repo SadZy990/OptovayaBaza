@@ -166,8 +166,8 @@ namespace OptovayaBaza.Controllers
 
             db.Transactions.Add(transaction);
             db.SaveChanges();
-
-            TempData["Success"] = $"Принятие (возврат) {quantity} {material.Unit} выполнено успешно!";
+            //fix unit = Name
+            TempData["Success"] = $"Принятие (возврат) {quantity} {material.Name} выполнено успешно!";
             return RedirectToAction("Index");
         }
 

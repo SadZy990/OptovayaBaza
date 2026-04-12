@@ -1,0 +1,12 @@
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\bin\Debug\OptovayaBaza.Models.dll.config
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\bin\Debug\OptovayaBaza.Models.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\bin\Debug\OptovayaBaza.Models.pdb
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\bin\Debug\EntityFramework.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\bin\Debug\EntityFramework.xml
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\obj\Debug\OptovayaBaza.Models.csproj.AssemblyReference.cache
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\obj\Debug\OptovayaBaza.Models.csproj.CoreCompileInputs.cache
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\obj\Debug\Optovaya.1BF509E4.Up2Date
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\obj\Debug\OptovayaBaza.Models.dll
+D:\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\OptovayaBaza\OptovayaBaza.Models\obj\Debug\OptovayaBaza.Models.pdb

@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\\u0423\u0447\u0435\u0431\u0430\\10042026\\OptovayaBaza\\",
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|f:\\\u0443\u0447\u0435\u0431\u0430\\10042026\\optovayabaza\\optovayabaza\\views\\wholesalersmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\views\\wholesalersmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\helpers\\dbcontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\helpers\\dbcontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|f:\\\u0443\u0447\u0435\u0431\u0430\\10042026\\optovayabaza\\optovayabaza\\views\\wholesalersmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\views\\wholesalersmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\controllers\\wholesalersmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\controllers\\wholesalersmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\controllers\\wholesalercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\controllers\\wholesalercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|d:\\\u0443\u0447\u0435\u0431\u0430 3rd year - 6 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\optovayabaza\\optovayabaza\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2264A021-F93A-45FD-A2E0-F6BC9C296B83}|OptovayaBaza\\OptovayaBaza.csproj|solutionrelative:optovayabaza\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +42,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\\u0423\u0447\u0435\u0431\u0430\\10042026\\OptovayaBaza\\OptovayaBaza\\Views\\WholesalersManage\\Index.cshtml",
-              "RelativeDocumentMoniker": "OptovayaBaza\\Views\\WholesalersManage\\Index.cshtml",
-              "ToolTip": "F:\\\u0423\u0447\u0435\u0431\u0430\\10042026\\OptovayaBaza\\OptovayaBaza\\Views\\WholesalersManage\\Index.cshtml",
-              "RelativeToolTip": "OptovayaBaza\\Views\\WholesalersManage\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwDQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T10:34:42.595Z",
+              "DocumentIndex": 3,
+              "Title": "MaterialsController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\MaterialsController.cs",
+              "RelativeDocumentMoniker": "OptovayaBaza\\Controllers\\MaterialsController.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\MaterialsController.cs",
+              "RelativeToolTip": "OptovayaBaza\\Controllers\\MaterialsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:59:32.782Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContextSingleton.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Helpers\\DbContextSingleton.cs",
+              "RelativeDocumentMoniker": "OptovayaBaza\\Helpers\\DbContextSingleton.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Helpers\\DbContextSingleton.cs",
+              "RelativeToolTip": "OptovayaBaza\\Helpers\\DbContextSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:53:57.217Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OptovayaBaza\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OptovayaBaza\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:59:39.727Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OptovayaBaza\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OptovayaBaza\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T18:14:13.825Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\\u0423\u0447\u0435\u0431\u0430\\10042026\\OptovayaBaza\\OptovayaBaza\\Views\\WholesalersManage\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OptovayaBaza\\Views\\WholesalersManage\\Edit.cshtml",
-              "ToolTip": "F:\\\u0423\u0447\u0435\u0431\u0430\\10042026\\OptovayaBaza\\OptovayaBaza\\Views\\WholesalersManage\\Edit.cshtml",
-              "RelativeToolTip": "OptovayaBaza\\Views\\WholesalersManage\\Edit.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwDkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T10:34:31.318Z",
+              "Title": "WholesalersManageController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\WholesalersManageController.cs",
+              "RelativeDocumentMoniker": "OptovayaBaza\\Controllers\\WholesalersManageController.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\WholesalersManageController.cs",
+              "RelativeToolTip": "OptovayaBaza\\Controllers\\WholesalersManageController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:14:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "log4net.config",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\log4net.config",
+              "RelativeDocumentMoniker": "OptovayaBaza\\log4net.config",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\log4net.config",
+              "RelativeToolTip": "OptovayaBaza\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-12T18:40:50.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Global.asax.cs",
+              "RelativeDocumentMoniker": "OptovayaBaza\\Global.asax.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Global.asax.cs",
+              "RelativeToolTip": "OptovayaBaza\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T18:05:29.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WholesalerController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\WholesalerController.cs",
+              "RelativeDocumentMoniker": "OptovayaBaza\\Controllers\\WholesalerController.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0415\u0411\u0410 3rd year - 6 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\10042026\\OptovayaBaza\\OptovayaBaza\\Controllers\\WholesalerController.cs",
+              "RelativeToolTip": "OptovayaBaza\\Controllers\\WholesalerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T18:11:15.95Z",
               "EditorCaption": ""
             }
           ]

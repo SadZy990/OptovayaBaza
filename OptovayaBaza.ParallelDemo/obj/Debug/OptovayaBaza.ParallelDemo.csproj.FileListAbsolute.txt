@@ -1,0 +1,7 @@
+D:\BACKUP_IFLASH\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\Новая папка\OptovayaBaza\OptovayaBaza.ParallelDemo\bin\Debug\OptovayaBaza.ParallelDemo.exe.config
+D:\BACKUP_IFLASH\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\Новая папка\OptovayaBaza\OptovayaBaza.ParallelDemo\bin\Debug\OptovayaBaza.ParallelDemo.exe
+D:\BACKUP_IFLASH\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\Новая папка\OptovayaBaza\OptovayaBaza.ParallelDemo\bin\Debug\OptovayaBaza.ParallelDemo.pdb
+D:\BACKUP_IFLASH\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\Новая папка\OptovayaBaza\OptovayaBaza.ParallelDemo\obj\Debug\OptovayaBaza.ParallelDemo.csproj.AssemblyReference.cache
+D:\BACKUP_IFLASH\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\Новая папка\OptovayaBaza\OptovayaBaza.ParallelDemo\obj\Debug\OptovayaBaza.ParallelDemo.csproj.CoreCompileInputs.cache
+D:\BACKUP_IFLASH\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\Новая папка\OptovayaBaza\OptovayaBaza.ParallelDemo\obj\Debug\OptovayaBaza.ParallelDemo.exe
+D:\BACKUP_IFLASH\УЧЕБА 3rd year - 6 сем\Технологии программирования\10042026\Новая папка\OptovayaBaza\OptovayaBaza.ParallelDemo\obj\Debug\OptovayaBaza.ParallelDemo.pdb
